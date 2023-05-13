@@ -1,4 +1,4 @@
-![github_banner]()
+![github_banner](https://github.com/Jai132/Jai132/blob/main/banner.png)
 
 ## Hi there 👋
 My name is Jai Tyagi and I am passionate about Open Source and project developement. Currently I am doing research in Antenna Designing, you can see my research work and progress here:
