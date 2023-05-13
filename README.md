@@ -1,20 +1,20 @@
-### Hi there 👋
+![github banner](https://github.com/Jai132/Jai132/blob/main/github%20bannner.png)
 
-<!--
-**Jai132/Jai132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+My name is Jai Tyagi and I am passionate about Open Source and project developement. Currently I am doing research in Antenna Designing, you can see my research work and progress here:
+[Antenna-Designing-for-Cellular-devices](https://github.com/Jai132/Antenna-Designing-for-Cellular-devices/tree/master)
 
-Here are some ideas to get you started:
+I also have a deep interest in ML, DL and ComputerVision and I am currently developing my skillset so I can make and contribute to some wonderful and exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Although I dont have much to show right now 😅, but here are my stats anyways:
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
--->
+[![Jai132's GitHub | Stats](https://stats.quine.sh/Jai132/github?theme=dark)](https://quine.sh)
+[![Jai132's GitHub | Topics](https://stats.quine.sh/Jai132/topics-over-time?theme=dark)](https://quine.sh)
+[![Jai132's GitHub | Languages Over Time](https://stats.quine.sh/Jai132/languages-over-time?theme=dark)](https://quine.sh)
+
+I know what you're thinking, a Noob 😆
+
+But that's fine, I love connecting with people and learning from them👾👾
+
+
+Connect with me on my socials:
