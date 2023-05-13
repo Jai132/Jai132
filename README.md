@@ -22,3 +22,6 @@ Connect with me on my socials:
 [![titter😆](https://github.com/Jai132/Jai132/blob/main/Twitter_black.svg)](https://twitter.com/JaiTyag75434793)
 [![linkdin](https://github.com/Jai132/Jai132/blob/main/LinkedIN_black.svg)](https://www.linkedin.com/in/jai-tyagi-a6044422b/)
 [![instagram](https://github.com/Jai132/Jai132/blob/main/Instagram_black.svg)](https://www.instagram.com/jai_tyagi_g/)
+
+
+P.S. I don't use Linkedin or Instagram that often....I find Twitter more fun and resourceful (no offence to Linkedin and insta lovers 🤞)
