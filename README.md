@@ -1,8 +1,7 @@
 ![github_banner](https://github.com/Jai132/Jai132/blob/main/banner.png)
 
 ## Hi there 👋
-My name is Jai Tyagi and I am passionate about Open Source and project developement. Currently I am doing research in Antenna Designing, you can see my research work and progress here:
-[Antenna-Designing-for-Cellular-devices](https://github.com/Jai132/Antenna-Designing-for-Cellular-devices/tree/master)
+My name is Jai Tyagi and I am passionate about Open Source and project developement. I am currently working as a research intern for some projects pertainig to image processing and robotics. 
 
 I also have a deep interest in ML, DL and ComputerVision and I am currently developing my skillset so I can make and contribute to some wonderful and exciting projects.
 
