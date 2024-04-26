@@ -23,4 +23,3 @@ Connect with me on my socials:
 [![instagram](https://github.com/Jai132/Jai132/blob/main/Instagram_black.svg)](https://www.instagram.com/jai_tyagi_g/)
 
 
-P.S. I don't use Linkedin or Instagram that often....I find Twitter more fun and resourceful (no offence to Linkedin and insta lovers 🤞)
